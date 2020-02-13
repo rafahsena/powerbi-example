@@ -3,15 +3,15 @@ Um tutorial de como rodar um exemplo utilizando o PowerBI. Repositório feito pa
 
 **OBS:** A ferramenta PowerBi Desktop só funciona no Windows.
 
-1. Baixe o aplicativo do PowerBI Desktop através da Microsoft Store ou [clicando aqui](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494) e complete a instalação
+1. Baixe o aplicativo do PowerBI Desktop através da Microsoft Store ou [clicando aqui](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494) e complete a instalação.
 
-2. Quando o app for aberto pela primeira vez aparecerá uma tela parecida com essa ![tela de conta](https://raw.githubusercontent.com/rafahsena/powerbi-example/master/images/powerbi1.PNG)
+2. Quando o app for aberto pela primeira vez aparecerá uma tela parecida com essa: ![tela de conta](https://raw.githubusercontent.com/rafahsena/powerbi-example/master/images/powerbi1.PNG)
 
 3. Crie uma conta seguindo os passos do aplicativo. (OPCIONAL)
 
     3.1 Caso queira usar sem criar conta basta clicar em já tenho uma conta e fechar as próximas caixas de diálogos que aparecerem.
 
-4. Baixe a tabela de dados de exportação de petróleo [em CSV neste link](http://www.dados.gov.br/dataset/t2-49-anuario-estatistico-2019-exportacao-de-petroleo)
+4. Baixe a tabela de dados de exportação de petróleo. [em CSV neste link](http://www.dados.gov.br/dataset/t2-49-anuario-estatistico-2019-exportacao-de-petroleo)
 
 5. No menu superior do PowerBI siga esses passos: Arquivo -> Obter Dados -> Texto/CSV. ![](https://raw.githubusercontent.com/rafahsena/powerbi-example/master/images/powerbi2.PNG)
 
