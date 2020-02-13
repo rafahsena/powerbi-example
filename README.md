@@ -11,7 +11,7 @@ Um tutorial de como rodar um exemplo utilizando o PowerBI. Repositório feito pa
 
     3.1 Caso queira usar sem criar conta basta clicar em já tenho uma conta e fechar as próximas caixas de diálogos que aparecerem.
 
-4. Baixe a tabela de dados de exportação de petróleo. [em CSV neste link](http://www.dados.gov.br/dataset/t2-49-anuario-estatistico-2019-exportacao-de-petroleo)
+4. Baixe a tabela de dados de exportação de petróleo [em CSV neste link](http://www.dados.gov.br/dataset/t2-49-anuario-estatistico-2019-exportacao-de-petroleo).
 
 5. No menu superior do PowerBI siga esses passos: Arquivo -> Obter Dados -> Texto/CSV. ![](https://raw.githubusercontent.com/rafahsena/powerbi-example/master/images/powerbi2.PNG)
 
